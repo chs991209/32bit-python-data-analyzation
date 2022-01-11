@@ -1,0 +1,39 @@
+# Calcul List
+
+()  # Grouping
+
+f(args...)  # Function call
+
+x[index:index]  # Slicing
+
+x[index]    # Indexing
+
+x.속성    # Attribute reference(method)
+
+**  # 거듭제곱
+
+~x  # BitWise NOT
+
++x, -x  # Plus, Minus
+
+*, /, %     # 곱셈, 나눗셈, 나머지
+
++, -    # add, sub
+
+<<, >>  bit move
+
+&   # 비트 연산 AND
+
+^   # bit 연산 XOR
+
+|   # bit 연산 OR
+
+in, not in, is, is not,, <, >, <=, >=, <>, !=, ==   # 비교
+
+not x   # 논리 연산자 NOT
+
+and     # 논리 연산자 AND
+
+or  # 논리 연산자 OR
+
+lambda  # 람다 표현식
